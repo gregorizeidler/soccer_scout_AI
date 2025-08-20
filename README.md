@@ -850,4 +850,4 @@ graph TB
 
 *🚀 Desenvolvido para revolucionar o scouting esportivo mundial com IA de ponta 🧠*
 
-*⚡ Versão 2.0 - Sistema Profissional Completo para Clubes de Futebol ⚽*
+*⚡ Versão 2.0 - Sistema Profissional Completo para Clubes de Futebol ⚽* 
