@@ -163,12 +163,12 @@ graph TB
         L --> Q[Cache Intelligence<br/>Performance]
     end
     
-    style A fill:#e1f5fe
-    style G fill:#f3e5f5
-    style H fill:#f3e5f5
-    style I fill:#f3e5f5
-    style K fill:#fff3e0
-    style M fill:#e8f5e8
+    style A fill:#2196f3
+    style G fill:#9c27b0
+    style H fill:#9c27b0
+    style I fill:#9c27b0
+    style K fill:#ff9800
+    style M fill:#4caf50
 ```
 
 ---
@@ -249,9 +249,9 @@ flowchart TD
     Q --> R[🎨 Response Formatting]
     R --> S[📱 User Interface]
     
-    style A fill:#e3f2fd
-    style Q fill:#f3e5f5
-    style S fill:#e8f5e8
+    style A fill:#1976d2
+    style Q fill:#9c27b0
+    style S fill:#4caf50
 ```
 
 ---
@@ -303,10 +303,10 @@ graph LR
     C -.-> K
     D -.-> K
     
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
-    style C fill:#fff3e0
-    style D fill:#e8f5e8
+    style A fill:#2196f3
+    style B fill:#9c27b0
+    style C fill:#ff9800
+    style D fill:#4caf50
 ```
 
 ---
@@ -808,8 +808,8 @@ graph TB
     L --> M
     N --> K
     
-    style A fill:#e1f5fe
-    style B fill:#f3e5f5
+    style A fill:#2196f3
+    style B fill:#9c27b0
     style G fill:#e8f5e8
     style M fill:#fff3e0
 ```
